@@ -1,6 +1,10 @@
+# 미국주식 관련 한국 유투버 리스트
+
+리스트의 순서는 랭킹과 관련이 없습니다.
+
+
 | 채널명(URL) | 특징 | 종목 |
 |-|-|-|
-
 | [미국주식으로 부자되기-미주부](https://www.youtube.com/channel/UCM_HKYb6M9ZIAjosJfWS3Lw) | 종목 스크리닝하는 방법 상세히 가르쳐주심 |      |
 | [미국주식투자 뚝돌TV](https://www.youtube.com/channel/UCqCF0XXwT3h_Myxiu412rdQ) | 중저음에 듣기좋은 목소리, 시진핑 바이러스 |      |
 | [내일은 투자왕 - 김단테](https://www.youtube.com/channel/UCKTMvIu9a4VGSrpWy-8bUrQ) | 카카오에 exit 경험/ 실력에 비해 매우겸손함 |      |
@@ -12,3 +16,4 @@
 | [당신의부동산](https://www.youtube.com/user/AdmanSocial) | 니콜라에 13억 물렸지만 여유가 넘침/ 마케팅쪽 전문가 |    니콜라,테슬라   |
 | [미국주식 멘탈이전부다](https://www.youtube.com/channel/UCgVp2k71X1-ORHtvs-r5O8Q) | 멘탈케어 전문, 허슬러 |   테슬라  |
 | [올바른](https://www.youtube.com/channel/UCxCfeUIrvj6D0-z39cwqMkA) | 나릇나릇한 목소리 |  테슬라  |
+
