@@ -1,6 +1,5 @@
 | 채널명(URL) | 특징 | 종목 |
 |-|-|-|
-
 | [미국주식으로 부자되기-미주부](https://www.youtube.com/channel/UCM_HKYb6M9ZIAjosJfWS3Lw) | 종목 스크리닝하는 방법 상세히 가르쳐주심 |      |
 | [내일은 투자왕 - 김단테](https://www.youtube.com/channel/UCKTMvIu9a4VGSrpWy-8bUrQ) | 카카오에 exit 경험/ 실력에 비해 매우겸손함 |      |
 | [제이디드월드](https://www.youtube.com/channel/UCnQm5yxDkKwAXt-bqedJ2bg) | 개그요소가 강함/ 래퍼 |   드론,4차산업    |
